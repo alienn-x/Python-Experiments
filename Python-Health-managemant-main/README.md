@@ -1,4 +1,5 @@
 # Python-Health-managemant
+Purpose - To Log diet and exercise of the user
 This is a mini project <br>
 Run setup.py <br>
 Then you can run main.py <br>
